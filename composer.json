@@ -1,0 +1,30 @@
+{
+    "name": "iqsuite/platform-sdk-laravel",
+    "description": "iQ Suite, instant RAG API with native support for Laravel 10+.",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Blue Hex Software"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload" : {
+        "psr-4": {
+            "IQSuite\\Platform\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers" : [
+                "IQSuite\\Platform\\IQSuitePlatformServiceProvider"
+            ],
+            "aliases": {
+                "IQSuite": "IQSuite\\Platform\\Facades\\IQSuite"
+            }
+        }
+    },
+    "version": "1.0.0",
+    "require-dev": {
+        "orchestra/testbench": "^9.9"
+    }
+}
