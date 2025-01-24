@@ -26,5 +26,8 @@
     "version": "1.0.0",
     "require-dev": {
         "orchestra/testbench": "^9.9"
-    }
+    },
+  "require": {
+    "ext-fileinfo": "*"
+  }
 }
