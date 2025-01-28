@@ -2,6 +2,7 @@
     "name": "iqsuite/platform-sdk-laravel",
     "description": "iQ Suite, instant RAG API with native support for Laravel 10+.",
     "type": "library",
+    "license": "Apache-2.0",
     "authors": [
         {
             "name": "Blue Hex Software"
