@@ -128,6 +128,10 @@ Storing your API key in an environment variable enhances security by keeping sen
       ```bash
       IQSUITE_API_KEY=your_api_key_here
       ```
+    - **publish vendor file**
+      ```bash
+      php artisan vendor:publish --tag=iqsuite-config
+      ```
 
 ### Step 3: List all Indices
 
