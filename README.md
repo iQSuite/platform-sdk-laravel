@@ -23,7 +23,6 @@ Welcome to the **iQ Suite JavaScript/TypeScript SDK**! This Software Development
 - [Features](#features)
 - [Quick Start](#quick-start)
 - [Support](#support)
-- [License](#license)
 
 ## Installation
 
@@ -130,7 +129,7 @@ Storing your API key in an environment variable enhances security by keeping sen
       IQSUITE_API_KEY=your_api_key_here
       ```
 
-### Step 2: List all Indices
+### Step 3: List all Indices
 
 ```php
 use IQSuite\Platform\Facades\IQSuite;
