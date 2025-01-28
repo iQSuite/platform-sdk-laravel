@@ -1,5 +1,4 @@
 # iQ Suite JavaScript/TypeScript SDK
-[![License](https://img.shields.io/github/license/iqsuite/platform-sdk-laravel)](LICENSE)
 ## Overview
 
 Welcome to the **iQ Suite JavaScript/TypeScript SDK**! This Software Development Kit (SDK) allows you to seamlessly integrate with the **iQ Suite Platform**, a comprehensive Retrieval Augmented Generation as a Service (RAGaaS). Whether you're a seasoned developer or just starting your coding journey, this guide will help you harness the power of iQ Suite to enhance your applications with advanced search and data processing capabilities.
