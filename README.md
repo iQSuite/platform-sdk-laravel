@@ -1,7 +1,7 @@
-# iQ Suite JavaScript/TypeScript SDK
+# iQ Suite Laravel SDK
 ## Overview
 
-Welcome to the **iQ Suite JavaScript/TypeScript SDK**! This Software Development Kit (SDK) allows you to seamlessly integrate with the **iQ Suite Platform**, a comprehensive Retrieval Augmented Generation as a Service (RAGaaS). Whether you're a seasoned developer or just starting your coding journey, this guide will help you harness the power of iQ Suite to enhance your applications with advanced search and data processing capabilities.
+Welcome to the **iQ Suite Laravel SDK**! This Software Development Kit (SDK) allows you to seamlessly integrate with the **iQ Suite Platform**, a comprehensive Retrieval Augmented Generation as a Service (RAGaaS). Whether you're a seasoned developer or just starting your coding journey, this guide will help you harness the power of iQ Suite to enhance your applications with advanced search and data processing capabilities.
 
 ### What is Retrieval Augmented Generation (RAG)?
 
@@ -115,7 +115,7 @@ Before you can interact with the iQ Suite Platform, you'll need an API key. This
 
 ### Step 2: Initialize the Client
 
-With your API key in hand, you can now initialize the iQ Suite client in your JavaScript or TypeScript application.
+With your API key in hand, you can now initialize the iQ Suite client in your Laravel application.
 
 #### Using Environment Variables (Recommended)
 
@@ -150,7 +150,7 @@ We're dedicated to helping you make the most of the iQ Suite Platform. Whether y
 
 ### Documentation
 
-Comprehensive documentation is available to guide you through every aspect of the iQ Suite Platform and the JavaScript/TypeScript SDK.
+Comprehensive documentation is available to guide you through every aspect of the iQ Suite Platform and the Laravel SDK.
 
 - 📚 [API Documentation](https://docs.iqsuite.ai/)
 - 🔧 [SDK Reference](https://docs.iqsuite.ai/sdk-reference/document-rag/create-index)
